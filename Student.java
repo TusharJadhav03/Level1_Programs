@@ -13,7 +13,7 @@ public class Student {
     }
 
     public void studentPrint() {
-        System.out.println(name + " " + age);
+        System.out.println(name + "  " + age);
     }
 
     public void setName(String name) {
